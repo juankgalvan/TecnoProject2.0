@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "TecnoProject2.0"
